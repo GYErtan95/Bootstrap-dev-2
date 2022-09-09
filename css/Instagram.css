@@ -1,0 +1,9 @@
+.search-main {
+    display: flex;
+    align-items: center;
+    height: 10px;
+    width: 268px;
+    border: 4px;
+    border-color: black;
+    border-radius: 10px;
+}
